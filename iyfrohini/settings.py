@@ -25,7 +25,7 @@ SECRET_KEY = 'j$obt2j^&-z554z450uhwopyx3_(adot=52as4))1qk17q^1ur'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['wave-rohini.herokuapp.com']
 
 # DEFAULT_FROM_EMAIL = "vkjha1010@gmail.com"
 
