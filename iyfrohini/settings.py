@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'j$obt2j^&-z554z450uhwopyx3_(adot=52as4))1qk17q^1ur'
+SECRET_KEY = '***'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -33,7 +33,7 @@ ALLOWED_HOSTS = ['wave-rohini.herokuapp.com']
 
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_HOST_USER = "vkjha1010@gmail.com"
-EMAIL_HOST_PASSWORD = "vikasjha"
+EMAIL_HOST_PASSWORD = "***"
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
